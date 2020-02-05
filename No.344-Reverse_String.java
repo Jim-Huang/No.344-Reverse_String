@@ -8,3 +8,7 @@ class Solution {
 
     }
 }
+/* 若輸入參數為字串 則轉成字元陣列執行操作
+ * char[] chars = s.toCharArray();
+ * 最後 return String.valueOf(chars);
+ */
